@@ -1,0 +1,52 @@
+/* css styles */
+
+/* Navbar background */
+.navbar {
+  background-color: #243447;
+}
+
+/* ALL navbar links (Home, Projects, Blogs) */
+.navbar .nav-link {
+  color: #F5F7FA !important;
+}
+
+/* Hover underline ONLY */
+.navbar .nav-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+/* Page background */
+body {
+  background-color: #F5F7FA;
+}
+
+/* Title (brand) */
+.navbar-brand {
+  color: #F5F7FA !important;
+  text-decoration: none !important;
+}
+
+/* Title hover (optional underline) */
+.navbar-brand:hover {
+  color: #F5F7FA !important;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+/* Main text color */
+body {
+  color: #1F2937;
+}
+
+/* Link color */
+a {
+  color: #2563EB;
+}
+
+/* Active page (no blue, no underline) */
+.navbar .nav-link.active {
+  color: #F5F7FA !important;
+  text-decoration: none !important;
+}
+
