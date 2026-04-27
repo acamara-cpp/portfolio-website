@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - google9a858fb572e6e87d.html
 
 website:
   title: "my-website"
