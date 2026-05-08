@@ -50,3 +50,20 @@ a {
   text-decoration: none !important;
 }
 
+
+/* Change only the Quarto search magnifying glass icon */
+.navbar .aa-DetachedSearchButton svg {
+  color: #F5F7FA;
+  fill: #F5F7FA;
+}
+
+
+
+/* Generated dashboard title in the top-left */
+.quarto-dashboard .navbar-title,
+.quarto-dashboard .navbar-brand,
+.quarto-dashboard .navbar-brand .navbar-title {
+  color: #F5F7FA !important;
+}
+
+

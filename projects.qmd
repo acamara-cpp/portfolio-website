@@ -1,5 +1,46 @@
 ---
 title: "Projects"
+toc: true
 ---
+This page showcases some of my International Business and Marketing projects as a student at Cal Poly Pomona.  
 
-These are my projects
+
+## Exporting - India Business Plan
+
+As part of a group project for International Exporting course, I analyzed the Infrastructure in India, and the Physical environment and its effect on trade. The purpose of this project was develop a plan to export Nike shoes from the United States to India.
+
+-   Researched the Infrastructure in India, and the Physical environment and its effect on trade
+-   Calculated the amount of shoe boxes that fit a 20 foot and 40 foot container and also airfreight.
+-   Coordiated an optimal logistics plan 
+
+
+## Marketing - Gerber in the Philippines 
+
+As part of a group project for International Marketing course, I analyzed the economic zones that the Philippines is a part of and the benefits that would bring for us.
+
+-   Researched the optimal market entry strategy into the Philippines from the United States.
+-   Analyzed the tariff and non-tariff barriers and what that meant for our plan
+-   Concluded the final plan for the venture
+
+
+## International Logistics - Export fertilizer to SE Asia
+
+As part of a group project for International Logistics course, I analyzed the market entry strategies to Indonesia. Also looked at the required documentation necessary to export fertilizer.
+
+-   Analyzed the business environment in Indonesia 
+-   Researched the infrastructure in Indonesia
+-   Determined the Inco terms to be used 
+
+## Consumer Behavior - Repositioned Airbnb
+
+As part of a group project for Consumer Behavior course, I researched the company market analysis and also created a perceptual map.
+
+-  Researched the company history
+-  Analyzed their competitors and also positioned all on a expense and work suitability
+
+## Market Analysis - Data Wrangling assignment
+
+I wrangled data with datasets build into quarto, cleaning up data and also visualizations to show results.
+
+-   Removed missing values
+-   Presented insights

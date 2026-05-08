@@ -1,5 +1,164 @@
 ---
 title: "Dashboard"
+format:
+  dashboard:
+    scrolling: true
+    theme: cosmo
+    css: styles.css
+execute:
+  echo: false
+  warning: false
+  message: false
 ---
 
-This is my dashboard 
+```{r}
+library(tidyverse)
+#install.packages("DT")
+library(DT)
+
+projects <- tibble::tibble(
+  project = c(
+    "Portfolio Website",
+    "Repositioned Airbnb",
+    "Exporting to Southeast Asia"
+  ),
+  status = c(
+    "In Progress",
+    "Completed",
+    "Completed"
+  ),
+  category = c(
+    "Market Analysis & Control",
+    "Consumer Behavior",
+    "International Logistics"
+  ),
+  progress = c(95, 100, 100),
+  hours = c(12, 9, 15)
+)
+
+total_projects <- nrow(projects)
+completed_projects <- sum(projects$status == "Completed")
+in_progress <- sum(projects$status == "In Progress")
+average_progress <- round(mean(projects$progress))
+```
+
+## Row
+
+```{r}
+#| content: valuebox
+#| title: "Total Projects"
+list(
+  icon = "folder",
+  color = "primary",
+  value = total_projects
+)
+```
+
+```{r}
+#| content: valuebox
+#| title: "Completed"
+list(
+  icon = "check-circle",
+  color = "success",
+  value = completed_projects
+)
+```
+
+```{r}
+#| content: valuebox
+#| title: "In Progress"
+list(
+  icon = "clock",
+  color = "warning",
+  value = in_progress
+)
+```
+
+```{r}
+#| content: valuebox
+#| title: "Average Progress"
+list(
+  icon = "bar-chart",
+  color = "info",
+  value = paste0(average_progress, "%")
+)
+```
+
+## Row {height="45%"}
+
+```{r}
+#| title: "Project Progress"
+
+ggplot(projects, aes(x = reorder(project, progress), y = progress, fill = status)) +
+  geom_col(width = 0.7) +
+  coord_flip() +
+  labs(
+    x = NULL,
+    y = "Progress (%)"
+  ) +
+  ylim(0, 100) +
+  scale_fill_manual(
+    values = c(
+      "Completed" = "#22c55e",
+      "In Progress" = "#f97316"
+    )
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(
+    legend.position = "bottom",
+    panel.grid.minor = element_blank()
+  )
+```
+
+```{r}
+#| title: "Time Spent by Project"
+
+ggplot(projects, aes(x = reorder(project, hours), y = hours, fill = category)) +
+  geom_col(width = 0.7) +
+  coord_flip() +
+  labs(
+    x = NULL,
+    y = "Hours",
+    fill = "Category"
+  ) +
+  scale_fill_manual(
+    values = c(
+      "Market Analysis & Control" = "#2563eb",
+      "Consumer Behavior" = "#7c3aed",
+      "International Logistics" = "#14b8a6"
+    )
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(
+    legend.position = "bottom",
+    panel.grid.minor = element_blank()
+  )
+```
+
+## Row {height="45%"}
+
+```{r}
+#| title: "Project Table"
+
+datatable(
+  projects,
+  options = list(
+    pageLength = 3,
+    searching = TRUE,
+    lengthChange = FALSE
+  ),
+  rownames = FALSE
+)
+```
+
+::: {.card title="Recent Updates"}
+
+### Latest portfolio work
+
+- Added a separate dashboard page  
+- Organized projects by status and progress  
+- Created visual summaries using R  
+- Added a searchable project table  
+- Next step: connect real GitHub and live demo links  
+
+:::

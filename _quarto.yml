@@ -4,7 +4,7 @@ project:
     - google9a858fb572e6e87d.html
 
 website:
-  title: "my-website"
+  title: "Alejandro Camara"
   navbar:
     left:
       - href: index.qmd
@@ -18,11 +18,10 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     mainfont: "Helvetica, Arial, sans-serif"
     fontsize: 16px
+
 
 

@@ -1,11 +1,40 @@
 ---
-title: "my-website"
+title: "Alejandro Camara"
+subtitle: "Student - International Business & Marketing Management"
+about:
+  template: trestles
+  #image: #images/photo.png
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/acamara-cpp/
+    - icon: X
+      text: X
+      href: https://x.com/alexcamara_01
 ---
 
-This is a Quarto website.
+## Career Aspiration
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Before graduating, I aim to secure an internship where I can gain hands-on experience and expand my skill set. My short-term goal is to transition into a full-time position, where I can continue to grow and become a valuable contributor.
 
+## Skills
 
+- Bilingual in English and Spanish.
 
-This is my home page
+- Microsoft Office Skills: Excel, Word, PowerPoint, Outlook.
+
+- Experienced in R for Data Wrangling and Visualization  
+
+- Critical Thinking
+
+- Time Management
+
+- Decision Making
+
+## Education
+
+California State Polytechnic University, Pomona
+
+**Bachelor of Science in Business Administration**
+
+Concentrations: International Business and Marketing Management
