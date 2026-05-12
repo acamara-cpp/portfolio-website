@@ -2,45 +2,69 @@
 title: "Projects"
 toc: true
 ---
-This page showcases some of my International Business and Marketing projects as a student at Cal Poly Pomona.  
+
+This page showcases some of my International Business and Marketing group projects and assignments that I have completed as a student at Cal Poly Pomona.
+
+## Market Analysis - Functional Programming assignment
+
+In this Introduction to Functional Programming in R assignment, I learned how to create functions. The benefits of functions are that you dont have to copy and paste the code mutiple times, especially when only a single field like "year" has to be changed.
+
+- Created functions
+- Added visualizations
 
 
-## Exporting - India Business Plan
-
-As part of a group project for International Exporting course, I analyzed the Infrastructure in India, and the Physical environment and its effect on trade. The purpose of this project was develop a plan to export Nike shoes from the United States to India.
-
--   Researched the Infrastructure in India, and the Physical environment and its effect on trade
--   Calculated the amount of shoe boxes that fit a 20 foot and 40 foot container and also airfreight.
--   Coordiated an optimal logistics plan 
-
-
-## Marketing - Gerber in the Philippines 
-
-As part of a group project for International Marketing course, I analyzed the economic zones that the Philippines is a part of and the benefits that would bring for us.
-
--   Researched the optimal market entry strategy into the Philippines from the United States.
--   Analyzed the tariff and non-tariff barriers and what that meant for our plan
--   Concluded the final plan for the venture
+```{=html}
+<iframe
+  class="embedded-doc"
+  src="Camara-Alejandro-M11-2-Application-R_Programming.html"
+  title="Embedded Project">
+</iframe>
+```
 
 
-## International Logistics - Export fertilizer to SE Asia
-
-As part of a group project for International Logistics course, I analyzed the market entry strategies to Indonesia. Also looked at the required documentation necessary to export fertilizer.
-
--   Analyzed the business environment in Indonesia 
--   Researched the infrastructure in Indonesia
--   Determined the Inco terms to be used 
 
 ## Consumer Behavior - Repositioned Airbnb
 
-As part of a group project for Consumer Behavior course, I researched the company market analysis and also created a perceptual map.
+As part of a group project for Consumer Behavior course, we focused on repositioning Airbnb to a new customer segment. I researched the company market analysis and also created a perceptual map.
 
--  Researched the company history
--  Analyzed their competitors and also positioned all on a expense and work suitability
+**As a group:**
 
-## Market Analysis - Data Wrangling assignment
+-   Decided to reposition Airbnb from current customer segment, vacation rentals, to digital nomads and remote workers.
 
-I wrangled data with datasets build into quarto, cleaning up data and also visualizations to show results.
+**My part:**
 
--   Removed missing values
--   Presented insights
+- Researched corporate history, brand values, products, state of their business, and price, promotion and distribution
+- Analyzed their competitors and also created a perceptual map in which I positioned all on a two axis graph, low cost - high cost and low work suitability - high work suitability
+
+## International Logistics - Export DAP fertilizer to SE Asia
+
+As part of a final group project for International Logistics course, we focused on exporting DAP fertilizer to Southeast Asia, specifically Thailand, Indonesia and the Philippines. I researched the International Methods of Market Entry, Logistics Infrastructure, International Methods of Payment and Incoterms (International Commercial Terms) for Indonesia.
+
+**As a group:**
+
+- Collaborated with group members to develop an entry point strategy from the United States into the region.
+- Established specific criteria to keep in mind, most cost effective option and customer responsiveness.
+- Determined exporting the ferilizer as bulk, in the ships cargo hold, to Thailand, as the regional distributor, was the right strategy for us.
+
+**My part:**
+
+- Analyzed the Indonesia Country Commercial Guide by the International Trade Administration U.S. Department of Commerce to seek guidance from professionals.
+
+Focused on:
+
+- Logistics Infrastructure:
+  - Ports, airports, and intermodal hubs
+  - Customs procedures and regulatory considerations
+  - Role of free trade zones and special economic zones
+
+- International Methods of Payment
+  - Letters of credit, documentary collections, open account, advance payment
+  - Comparison of risk levels for each method
+  - Best practices for securing international transactions
+
+- Incoterms (International Commercial Terms)
+  - Explanation of key Incoterms (EXW, FOB, CIF, DDP, etc.)
+  - Responsibilities of buyers and sellers under each term
+  - Choosing the right Incoterm for different scenarios
+
+As a result, I chose the Port of Tanjung Priok in Jakarta as the entry point to Indonesia from Thailand. This port is the largest and most advanced in Indonesia.

@@ -1,0 +1,23 @@
+---
+title: "Revealjs Presentation"
+---
+
+## M08-Reflection Essay-Advanced Data Types
+
+In this assigment, I learned about new packages and functions, along with their capabilities. The packages are `gtsummary`, `strings`, `factor` and `date-time`.
+
+<div class="fullscreen-btn-wrap">
+  <button class="fullscreen-btn" onclick="document.querySelector('.slide-frame').requestFullscreen()">
+  ⛶ Fullscreen
+  </button>
+</div>
+
+<div class="slide-frame">
+  <iframe
+    src="M08/Camara, Alejandro-M08-Reflection Essay-Adv Data-Types.html"
+    width="100%"
+    height="500"
+    style="border: 1px solid #ddd; border-radius: 10px;"
+    allowfullscreen>
+  </iframe>
+</div>

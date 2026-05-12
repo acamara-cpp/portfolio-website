@@ -1,40 +1,21 @@
 ---
-title: "Alejandro Camara"
+title: "Hi, I'm Alejandro Camara"
 subtitle: "Student - International Business & Marketing Management"
 about:
   template: trestles
   #image: #images/photo.png
   links: 
-    - icon: github
-      text: Github
-      href: https://github.com/acamara-cpp/
-    - icon: X
-      text: X
-      href: https://x.com/alexcamara_01
+    - text: View Projects
+      href: projects.qmd
+      aria-label: View projects
 ---
 
-## Career Aspiration
+## About Me
+Hi, I'm **Alejandro Camara**! I'm a fourth-year Business Administration major at Cal Poly Pomona with concentrations in International Business and Marketing Management, graduating in December 2026. 
 
-Before graduating, I aim to secure an internship where I can gain hands-on experience and expand my skill set. My short-term goal is to transition into a full-time position, where I can continue to grow and become a valuable contributor.
+## Personal Statement 
 
-## Skills
+As an International Business and Marketing Management student, I am passionate about logistics, data analysis, and using insights to support better business decisions. My strengths include critical thinking, time management, and decision making. Throughout my academic journey, I have developed technical skills in Excel and R, including data wrangling and data visualization.
 
-- Bilingual in English and Spanish.
+Before graduating, I aim to secure an internship where I can gain hands-on experience and expand my skill set. My short-term goal is to transition into a full-time position where I can continue to grow and become a valuable contributor.
 
-- Microsoft Office Skills: Excel, Word, PowerPoint, Outlook.
-
-- Experienced in R for Data Wrangling and Visualization  
-
-- Critical Thinking
-
-- Time Management
-
-- Decision Making
-
-## Education
-
-California State Polytechnic University, Pomona
-
-**Bachelor of Science in Business Administration**
-
-Concentrations: International Business and Marketing Management

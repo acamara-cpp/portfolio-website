@@ -10,3 +10,6 @@ _site/
 .Rhistory
 .RData
 /.quarto/
+
+# web page
+resume.qmd

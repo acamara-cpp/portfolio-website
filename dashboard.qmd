@@ -20,20 +20,29 @@ projects <- tibble::tibble(
   project = c(
     "Portfolio Website",
     "Repositioned Airbnb",
-    "Exporting to Southeast Asia"
+    "Export DAP fertilizer to SE Asia",
+    "Functional Programming assignment"
+  ),
+  type = c(
+    "Project",
+    "Project",
+    "Project",
+    "Assignment"
   ),
   status = c(
     "In Progress",
+    "Completed",
     "Completed",
     "Completed"
   ),
   category = c(
     "Market Analysis & Control",
     "Consumer Behavior",
-    "International Logistics"
+    "International Logistics",
+    "Market Analysis & Control"
   ),
-  progress = c(95, 100, 100),
-  hours = c(12, 9, 15)
+  progress = c(95, 100, 100, 100),
+  hours = c(12, 5, 9, 15)
 )
 
 total_projects <- nrow(projects)
@@ -46,7 +55,7 @@ average_progress <- round(mean(projects$progress))
 
 ```{r}
 #| content: valuebox
-#| title: "Total Projects"
+#| title: "Total Projects & Assignments"
 list(
   icon = "folder",
   color = "primary",
@@ -87,7 +96,7 @@ list(
 ## Row {height="45%"}
 
 ```{r}
-#| title: "Project Progress"
+#| title: "Project & Assignment Progress"
 
 ggplot(projects, aes(x = reorder(project, progress), y = progress, fill = status)) +
   geom_col(width = 0.7) +
@@ -111,7 +120,7 @@ ggplot(projects, aes(x = reorder(project, progress), y = progress, fill = status
 ```
 
 ```{r}
-#| title: "Time Spent by Project"
+#| title: "Time Spent by Project & Assignment"
 
 ggplot(projects, aes(x = reorder(project, hours), y = hours, fill = category)) +
   geom_col(width = 0.7) +
@@ -138,7 +147,7 @@ ggplot(projects, aes(x = reorder(project, hours), y = hours, fill = category)) +
 ## Row {height="45%"}
 
 ```{r}
-#| title: "Project Table"
+#| title: "Project and Assignment Table"
 
 datatable(
   projects,
