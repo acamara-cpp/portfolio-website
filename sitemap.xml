@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://acamara-cpp.github.io/portfolio-website/index.html</loc>
-    <lastmod>2026-05-08T02:27:28.306Z</lastmod>
-  </url>
-  <url>
-    <loc>https://acamara-cpp.github.io/portfolio-website/dashboard.html</loc>
-    <lastmod>2026-05-08T02:23:48.607Z</lastmod>
-  </url>
-  <url>
-    <loc>https://acamara-cpp.github.io/portfolio-website/resume.html</loc>
-    <lastmod>2026-04-26T21:55:31.159Z</lastmod>
+    <loc>https://acamara-cpp.github.io/portfolio-website/revealjs-presentation.html</loc>
+    <lastmod>2026-05-10T07:15:46.993Z</lastmod>
   </url>
   <url>
     <loc>https://acamara-cpp.github.io/portfolio-website/projects.html</loc>
-    <lastmod>2026-05-08T04:58:20.035Z</lastmod>
+    <lastmod>2026-05-10T21:13:06.532Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acamara-cpp.github.io/portfolio-website/google-analytics.html</loc>
+    <lastmod>2026-05-09T02:35:42.348Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acamara-cpp.github.io/portfolio-website/dashboard.html</loc>
+    <lastmod>2026-05-10T22:11:50.084Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acamara-cpp.github.io/portfolio-website/index.html</loc>
+    <lastmod>2026-05-12T06:25:30.233Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acamara-cpp.github.io/portfolio-website/resume.html</loc>
+    <lastmod>2026-05-11T00:51:35.572Z</lastmod>
   </url>
 </urlset>

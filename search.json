@@ -1,79 +1,79 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Alejandro Camara",
+    "objectID": "revealjs-presentation.html",
+    "href": "revealjs-presentation.html",
+    "title": "Revealjs Presentation",
     "section": "",
-    "text": "Before graduating, I aim to secure an internship where I can gain hands-on experience and expand my skill set. My short-term goal is to transition into a full-time position, where I can continue to grow and become a valuable contributor."
+    "text": "In this assigment, I learned about new packages and functions, along with their capabilities. The packages are gtsummary, strings, factor and date-time.\n\n ⛶ Fullscreen"
   },
   {
-    "objectID": "index.html#career-aspiration",
-    "href": "index.html#career-aspiration",
-    "title": "Alejandro Camara",
+    "objectID": "revealjs-presentation.html#m08-reflection-essay-advanced-data-types",
+    "href": "revealjs-presentation.html#m08-reflection-essay-advanced-data-types",
+    "title": "Revealjs Presentation",
     "section": "",
-    "text": "Before graduating, I aim to secure an internship where I can gain hands-on experience and expand my skill set. My short-term goal is to transition into a full-time position, where I can continue to grow and become a valuable contributor."
-  },
-  {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
-    "title": "Alejandro Camara",
-    "section": "Skills",
-    "text": "Skills\n\nBilingual in English and Spanish.\nMicrosoft Office Skills: Excel, Word, PowerPoint, Outlook.\nExperienced in R for Data Wrangling and Visualization\nCritical Thinking\nTime Management\nDecision Making"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Alejandro Camara",
-    "section": "Education",
-    "text": "Education\nCalifornia State Polytechnic University, Pomona\nBachelor of Science in Business Administration\nConcentrations: International Business and Marketing Management"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "This is my resume"
+    "text": "In this assigment, I learned about new packages and functions, along with their capabilities. The packages are gtsummary, strings, factor and date-time.\n\n ⛶ Fullscreen"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "This page showcases some of my International Business and Marketing projects as a student at Cal Poly Pomona."
+    "text": "This page showcases some of my International Business and Marketing group projects and assignments that I have completed as a student at Cal Poly Pomona."
   },
   {
-    "objectID": "projects.html#exporting---india-business-plan",
-    "href": "projects.html#exporting---india-business-plan",
+    "objectID": "projects.html#market-analysis---functional-programming-assignment",
+    "href": "projects.html#market-analysis---functional-programming-assignment",
     "title": "Projects",
-    "section": "Exporting - India Business Plan",
-    "text": "Exporting - India Business Plan\nAs part of a group project for International Exporting course, I analyzed the Infrastructure in India, and the Physical environment and its effect on trade. The purpose of this project was develop a plan to export Nike shoes from the United States to India.\n\nResearched the Infrastructure in India, and the Physical environment and its effect on trade\nCalculated the amount of shoe boxes that fit a 20 foot and 40 foot container and also airfreight.\nCoordiated an optimal logistics plan"
-  },
-  {
-    "objectID": "projects.html#marketing---gerber-in-the-philippines",
-    "href": "projects.html#marketing---gerber-in-the-philippines",
-    "title": "Projects",
-    "section": "Marketing - Gerber in the Philippines",
-    "text": "Marketing - Gerber in the Philippines\nAs part of a group project for International Marketing course, I analyzed the economic zones that the Philippines is a part of and the benefits that would bring for us.\n\nResearched the optimal market entry strategy into the Philippines from the United States.\nAnalyzed the tariff and non-tariff barriers and what that meant for our plan\nConcluded the final plan for the venture"
-  },
-  {
-    "objectID": "projects.html#international-logistics---export-fertilizer-to-se-asia",
-    "href": "projects.html#international-logistics---export-fertilizer-to-se-asia",
-    "title": "Projects",
-    "section": "International Logistics - Export fertilizer to SE Asia",
-    "text": "International Logistics - Export fertilizer to SE Asia\nAs part of a group project for International Logistics course, I analyzed the market entry strategies to Indonesia. Also looked at the required documentation necessary to export fertilizer.\n\nAnalyzed the business environment in Indonesia\nResearched the infrastructure in Indonesia\nDetermined the Inco terms to be used"
+    "section": "Market Analysis - Functional Programming assignment",
+    "text": "Market Analysis - Functional Programming assignment\nIn this Introduction to Functional Programming in R assignment, I learned how to create functions. The benefits of functions are that you dont have to copy and paste the code mutiple times, especially when only a single field like “year” has to be changed.\n\nCreated functions\nAdded visualizations"
   },
   {
     "objectID": "projects.html#consumer-behavior---repositioned-airbnb",
     "href": "projects.html#consumer-behavior---repositioned-airbnb",
     "title": "Projects",
     "section": "Consumer Behavior - Repositioned Airbnb",
-    "text": "Consumer Behavior - Repositioned Airbnb\nAs part of a group project for Consumer Behavior course, I researched the company market analysis and also created a perceptual map.\n\nResearched the company history\nAnalyzed their competitors and also positioned all on a expense and work suitability"
+    "text": "Consumer Behavior - Repositioned Airbnb\nAs part of a group project for Consumer Behavior course, we focused on repositioning Airbnb to a new customer segment. I researched the company market analysis and also created a perceptual map.\nAs a group:\n\nDecided to reposition Airbnb from current customer segment, vacation rentals, to digital nomads and remote workers.\n\nMy part:\n\nResearched corporate history, brand values, products, state of their business, and price, promotion and distribution\nAnalyzed their competitors and also created a perceptual map in which I positioned all on a two axis graph, low cost - high cost and low work suitability - high work suitability"
   },
   {
-    "objectID": "projects.html#market-analysis---data-wrangling-assignment",
-    "href": "projects.html#market-analysis---data-wrangling-assignment",
+    "objectID": "projects.html#international-logistics---export-dap-fertilizer-to-se-asia",
+    "href": "projects.html#international-logistics---export-dap-fertilizer-to-se-asia",
     "title": "Projects",
-    "section": "Market Analysis - Data Wrangling assignment",
-    "text": "Market Analysis - Data Wrangling assignment\nI wrangled data with datasets build into quarto, cleaning up data and also visualizations to show results.\n\nRemoved missing values\nPresented insights"
+    "section": "International Logistics - Export DAP fertilizer to SE Asia",
+    "text": "International Logistics - Export DAP fertilizer to SE Asia\nAs part of a final group project for International Logistics course, we focused on exporting DAP fertilizer to Southeast Asia, specifically Thailand, Indonesia and the Philippines. I researched the International Methods of Market Entry, Logistics Infrastructure, International Methods of Payment and Incoterms (International Commercial Terms) for Indonesia.\nAs a group:\n\nCollaborated with group members to develop an entry point strategy from the United States into the region.\nEstablished specific criteria to keep in mind, most cost effective option and customer responsiveness.\nDetermined exporting the ferilizer as bulk, in the ships cargo hold, to Thailand, as the regional distributor, was the right strategy for us.\n\nMy part:\n\nAnalyzed the Indonesia Country Commercial Guide by the International Trade Administration U.S. Department of Commerce to seek guidance from professionals.\n\nFocused on:\n\nLogistics Infrastructure:\n\nPorts, airports, and intermodal hubs\nCustoms procedures and regulatory considerations\nRole of free trade zones and special economic zones\n\nInternational Methods of Payment\n\nLetters of credit, documentary collections, open account, advance payment\nComparison of risk levels for each method\nBest practices for securing international transactions\n\nIncoterms (International Commercial Terms)\n\nExplanation of key Incoterms (EXW, FOB, CIF, DDP, etc.)\nResponsibilities of buyers and sellers under each term\nChoosing the right Incoterm for different scenarios\n\n\nAs a result, I chose the Port of Tanjung Priok in Jakarta as the entry point to Indonesia from Thailand. This port is the largest and most advanced in Indonesia."
+  },
+  {
+    "objectID": "google-analytics.html",
+    "href": "google-analytics.html",
+    "title": "Google Analytics",
+    "section": "",
+    "text": "Look at stats"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Alejandro Camara",
+    "section": "",
+    "text": "Hi, I’m Alejandro Camara! I’m a fourth-year Business Administration major at Cal Poly Pomona with concentrations in International Business and Marketing Management, graduating in December 2026."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m Alejandro Camara",
+    "section": "",
+    "text": "Hi, I’m Alejandro Camara! I’m a fourth-year Business Administration major at Cal Poly Pomona with concentrations in International Business and Marketing Management, graduating in December 2026."
+  },
+  {
+    "objectID": "index.html#personal-statement",
+    "href": "index.html#personal-statement",
+    "title": "Hi, I’m Alejandro Camara",
+    "section": "Personal Statement",
+    "text": "Personal Statement\nAs an International Business and Marketing Management student, I am passionate about logistics, data analysis, and using insights to support better business decisions. My strengths include critical thinking, time management, and decision making. Throughout my academic journey, I have developed technical skills in Excel and R, including data wrangling and data visualization.\nBefore graduating, I aim to secure an internship where I can gain hands-on experience and expand my skill set. My short-term goal is to transition into a full-time position where I can continue to grow and become a valuable contributor."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Professional Summary\n\n\nTechnical Skills\n\n\nEducation\n\ntribble(\n    ~ Degree, ~ Year, ~ College, ~ Institution,\n    \"Bachelor of Science, International Business and Marketing Management\", \"2020 - 2026\",\n\"College of Business Administration\", \"Cal Poly Pomona\"\n) |&gt;\n  detailed_entries(Degree, Year, College, Institution)\n\nWarning: Detailed entry formatter is not defined for this output format.\n\n\n# A tibble: 1 × 5\n  what                                                   when  with  where why  \n  &lt;chr&gt;                                                  &lt;chr&gt; &lt;chr&gt; &lt;chr&gt; &lt;lis&gt;\n1 Bachelor of Science, International Business and Marke… 2020… Coll… Cal … &lt;chr&gt;\n\n\n\n\nWork Experience"
   }
 ]
