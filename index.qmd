@@ -6,7 +6,7 @@ about:
   image: images/photo.png
   links: 
     - text: View Projects
-      href: projects.qmd
+      href: projects.html
       aria-label: View projects
 ---
 
