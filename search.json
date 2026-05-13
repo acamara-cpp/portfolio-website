@@ -44,9 +44,16 @@
   {
     "objectID": "google-analytics.html",
     "href": "google-analytics.html",
-    "title": "Google Analytics",
+    "title": "Google Search Console",
     "section": "",
-    "text": "Look at stats"
+    "text": "My portfolio website is connected to Google Search Console to monitor its visibility in Google Search. The Performance report tracks total clicks, total impressions, average click-through rate, and average search position over time.\nAs seen in the Performance report above, from April 24 to May 12, my portfolio website began appearing in Google Search results, receiving 3 impressions with an average search position of 43. Since the website is still fairly new, this report provides an early glimpse of the site’s current search visibility."
+  },
+  {
+    "objectID": "google-analytics.html#performance-report",
+    "href": "google-analytics.html#performance-report",
+    "title": "Google Search Console",
+    "section": "",
+    "text": "My portfolio website is connected to Google Search Console to monitor its visibility in Google Search. The Performance report tracks total clicks, total impressions, average click-through rate, and average search position over time.\nAs seen in the Performance report above, from April 24 to May 12, my portfolio website began appearing in Google Search results, receiving 3 impressions with an average search position of 43. Since the website is still fairly new, this report provides an early glimpse of the site’s current search visibility."
   },
   {
     "objectID": "index.html",
