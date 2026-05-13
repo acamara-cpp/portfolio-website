@@ -3,7 +3,7 @@ title: "Hi, I'm Alejandro Camara"
 subtitle: "Student - International Business & Marketing Management"
 about:
   template: trestles
-  #image: #images/photo.png
+  image: images/photo.png
   links: 
     - text: View Projects
       href: projects.qmd

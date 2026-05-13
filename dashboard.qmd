@@ -30,7 +30,7 @@ projects <- tibble::tibble(
     "Assignment"
   ),
   status = c(
-    "In Progress",
+    "Completed",
     "Completed",
     "Completed",
     "Completed"
@@ -41,8 +41,8 @@ projects <- tibble::tibble(
     "International Logistics",
     "Market Analysis & Control"
   ),
-  progress = c(95, 100, 100, 100),
-  hours = c(12, 5, 9, 15)
+  progress = c(100, 100, 100, 100),
+  hours = c(12, 5, 7, 9)
 )
 
 total_projects <- nrow(projects)
@@ -168,6 +168,6 @@ datatable(
 - Organized projects by status and progress  
 - Created visual summaries using R  
 - Added a searchable project table  
-- Next step: connect real GitHub and live demo links  
+- Next step: turn in  
 
 :::
